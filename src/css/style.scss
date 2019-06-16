@@ -1,0 +1,12 @@
+html ,body{
+  margin: 0;
+  padding:0;
+  ul {
+    list-style: none;
+  }
+  .box {
+    width: 500px;
+    height: 230px;
+    background: url('../images/身份证背面.jpg');
+  }
+}
