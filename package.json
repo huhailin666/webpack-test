@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "@babel/runtime": "^7.4.5",
-    "jquery": "^3.4.1"
+    "jquery": "^3.5.0"
   },
   "devDependencies": {
     "@babel/core": "^7.4.5",
